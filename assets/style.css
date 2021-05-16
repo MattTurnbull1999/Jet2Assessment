@@ -1,0 +1,14 @@
+form{
+    padding-left: 40%;
+}
+
+p{
+    color: red;
+}
+
+input{
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    width: 80%;
+  }
