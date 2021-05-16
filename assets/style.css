@@ -3,7 +3,7 @@ form{
 }
 
 p{
-    color: red;
+    font-family: 'Roboto', sans-serif;
 }
 
 input{
@@ -12,3 +12,19 @@ input{
     box-sizing: border-box;
     width: 80%;
   }
+
+li{
+    font-family: 'Roboto', sans-serif;
+}
+
+label{
+    font-family: 'Roboto', sans-serif;;
+}
+
+button{
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+}
